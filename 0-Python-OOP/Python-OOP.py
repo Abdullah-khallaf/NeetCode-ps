@@ -1,1 +1,1 @@
-print("Hello OOP")
+print("Free palestine")
